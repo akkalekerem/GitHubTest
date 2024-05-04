@@ -1,0 +1,2 @@
+# GitHubTest
+GitHub öğrenirken açtım.
